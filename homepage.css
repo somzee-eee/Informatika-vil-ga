@@ -29,7 +29,8 @@ body {
 .cim{
     color: white;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 7%;
+    font-size: 260%;
 }
 
 .ucim{
@@ -63,4 +64,36 @@ body {
 
 .fba{
     margin-top: 20px;
+}
+
+.kci{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 235%;
+}
+
+.ksz{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 160%;
+}
+
+.kkk{
+    
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+    height: auto;
+    margin-top: 40px;
+}
+
+.htu{
+    text-align: center;
+    font-size: 220%;
+    margin-top: 43px;
+}
+
+.hva{
+    text-align: center;
+    font-size: 147%;
 }
